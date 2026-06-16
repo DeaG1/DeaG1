@@ -26,7 +26,7 @@ I'm always happy to connect—reach out on any of these.
   </a>
 
   <a href="https://nido.global" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-FFA500?style=for-the-badge" alt="Portfolio" />
   </a>
 </p>
 
