@@ -20,10 +20,13 @@ I'm always happy to connect—reach out on any of these.
   <a href="https://github.com/DeaG1" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+
   <a href="https://www.linkedin.com/in/r%C3%B4mulo-prado-27017b1bb/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://nido.global" target="_blank" rel="noopener noreferrer">
+
+  <a href="https://SEU-PORTFOLIO.COM" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
