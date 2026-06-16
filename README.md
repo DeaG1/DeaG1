@@ -25,8 +25,8 @@ I'm always happy to connect—reach out on any of these.
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
-  <a href="https://SEU-PORTFOLIO.COM" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" />
+  <a href="https://nido.global" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge" alt="Portfolio" />
   </a>
 </p>
 
